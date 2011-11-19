@@ -1,0 +1,5 @@
+C:\Users\closdan\Documents\Visual Studio 2008\Projects\AMC\AMC\bin\AMC.dll
+C:\Users\closdan\Documents\Visual Studio 2008\Projects\AMC\AMC\bin\AMC.pdb
+C:\Users\closdan\Documents\Visual Studio 2008\Projects\AMC\AMC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\closdan\Documents\Visual Studio 2008\Projects\AMC\AMC\obj\Debug\AMC.dll
+C:\Users\closdan\Documents\Visual Studio 2008\Projects\AMC\AMC\obj\Debug\AMC.pdb
